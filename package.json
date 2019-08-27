@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "async": "2.5.0",
-    "browserify": "http://github.com/bitcoin-com/browserify#v16.2.4",
+    "browserify": "http://github.com/bitcoin-com/browserify.git#v16.2.4",
     "browserify-incremental": "3.1.1",
     "glob": "7.1.2",
     "lodash": "4.17.4",
