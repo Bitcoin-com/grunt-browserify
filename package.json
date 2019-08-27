@@ -2,7 +2,7 @@
   "name": "grunt-browserify",
   "description": "Grunt task for node-browserify",
   "version": "5.3.0",
-  "homepage": "https://github.com/jmreidy/grunt-browserify",
+  "homepage": "https://github.com/bitcoin-com/grunt-browserify",
   "contributors": [
     {
       "name": "Justin Reidy",
@@ -15,10 +15,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jmreidy/grunt-browserify.git"
+    "url": "git://github.com/bitcoin-com/grunt-browserify.git"
   },
   "bugs": {
-    "url": "https://github.com/jmreidy/grunt-browserify/issues"
+    "url": "https://github.com/bitcoin-com/grunt-browserify/issues"
   },
   "files": [
     "lib/",
@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "async": "2.5.0",
-    "browserify": "16.2.3",
+    "browserify": "http://github.com/bitcoin-com/browserify#v16.2.4",
     "browserify-incremental": "3.1.1",
     "glob": "7.1.2",
     "lodash": "4.17.4",
